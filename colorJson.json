@@ -1,0 +1,110 @@
+{
+  "updatedAt":"201905270504",
+  "colorList": [
+    {
+      "colorId": "0001",
+      "colorName": "Sample Color",
+      "colorCodes": [
+        {
+          "colorCode": "#00B4EB"
+        },
+        {
+          "colorCode": "#5AB190"
+        },
+        {
+          "colorCode": "#C9E3DB"
+        },
+        {
+          "colorCode": "#FEC925"
+        },
+        {
+          "colorCode": "#FA1E44"
+        }
+      ]
+    },
+    {
+      "colorId": "0002",
+      "colorName": "Sample Color",
+      "colorCodes": [
+        {
+          "colorCode": "#00B4EB"
+        },
+        {
+          "colorCode": "#5AB190"
+        },
+        {
+          "colorCode": "#C9E3DB"
+        },
+        {
+          "colorCode": "#FEC925"
+        },
+        {
+          "colorCode": "#FA1E44"
+        }
+      ]
+    },
+    {
+      "colorId": "0003",
+      "colorName": "Sample Color",
+      "colorCodes": [
+        {
+          "colorCode": "#00B4EB"
+        },
+        {
+          "colorCode": "#5AB190"
+        },
+        {
+          "colorCode": "#C9E3DB"
+        },
+        {
+          "colorCode": "#FEC925"
+        },
+        {
+          "colorCode": "#FA1E44"
+        }
+      ]
+    },
+    {
+      "colorId": "0004",
+      "colorName": "Sample Color",
+      "colorCodes": [
+        {
+          "colorCode": "#00B4EB"
+        },
+        {
+          "colorCode": "#5AB190"
+        },
+        {
+          "colorCode": "#C9E3DB"
+        },
+        {
+          "colorCode": "#FEC925"
+        },
+        {
+          "colorCode": "#FA1E44"
+        }
+      ]
+    },
+    {
+      "colorId": "0005",
+      "colorName": "Sample Color",
+      "colorCodes": [
+        {
+          "colorCode": "#00B4EB"
+        },
+        {
+          "colorCode": "#5AB190"
+        },
+        {
+          "colorCode": "#C9E3DB"
+        },
+        {
+          "colorCode": "#FEC925"
+        },
+        {
+          "colorCode": "#FA1E44"
+        }
+      ]
+    }
+  ]
+}

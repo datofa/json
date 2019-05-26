@@ -1,5 +1,4 @@
 {
-  "updatedAt":"201905270504",
   "colorList": [
     {
       "colorId": "0001",
@@ -27,19 +26,19 @@
       "colorName": "Sample Color",
       "colorCodes": [
         {
-          "colorCode": "#00B4EB"
+          "colorCode": "#81c381"
         },
         {
-          "colorCode": "#5AB190"
+          "colorCode": "#b7e9d6"
         },
         {
-          "colorCode": "#C9E3DB"
+          "colorCode": "#668283"
         },
         {
-          "colorCode": "#FEC925"
+          "colorCode": "#645d47"
         },
         {
-          "colorCode": "#FA1E44"
+          "colorCode": "#2840d7"
         }
       ]
     },
@@ -48,19 +47,19 @@
       "colorName": "Sample Color",
       "colorCodes": [
         {
-          "colorCode": "#00B4EB"
+          "colorCode": "#cd4bbe"
         },
         {
-          "colorCode": "#5AB190"
+          "colorCode": "#e3e12b"
         },
         {
-          "colorCode": "#C9E3DB"
+          "colorCode": "#39846d"
         },
         {
-          "colorCode": "#FEC925"
+          "colorCode": "#25fed1"
         },
         {
-          "colorCode": "#FA1E44"
+          "colorCode": "#fa1e24"
         }
       ]
     },
@@ -69,19 +68,19 @@
       "colorName": "Sample Color",
       "colorCodes": [
         {
-          "colorCode": "#00B4EB"
+          "colorCode": "#d38196"
         },
         {
-          "colorCode": "#5AB190"
+          "colorCode": "#695ab1"
         },
         {
-          "colorCode": "#C9E3DB"
+          "colorCode": "#26735b"
         },
         {
-          "colorCode": "#FEC925"
+          "colorCode": "#bdf7c0"
         },
         {
-          "colorCode": "#FA1E44"
+          "colorCode": "#fa3b1e"
         }
       ]
     },
@@ -90,13 +89,13 @@
       "colorName": "Sample Color",
       "colorCodes": [
         {
-          "colorCode": "#00B4EB"
+          "colorCode": "#7feb00"
         },
         {
-          "colorCode": "#5AB190"
+          "colorCode": "#4d7867"
         },
         {
-          "colorCode": "#C9E3DB"
+          "colorCode": "#d4e3c9"
         },
         {
           "colorCode": "#FEC925"
@@ -106,5 +105,6 @@
         }
       ]
     }
-  ]
+  ],
+  "updatedAt": "201905270504"
 }
